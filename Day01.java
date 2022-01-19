@@ -20,8 +20,8 @@ public class Day01 {
         //String[] name = new String[] {"Logan", "Hoa", "John", "Logan", "Minh", "Hoa"};
         //printFreq(testArr);
 
-        int[] numArr = new int[] {4,-3,1,4,7,9};
-        System.out.println(findMax(numArr));
+        //int[] numArr = new int[] {4,-3,1,4,7,9};
+        //System.out.println(findMax(numArr));
     }
 
     public static void printFreq(String[] arr) {
